@@ -18,4 +18,4 @@ What I'm building (live)
 - AWS Certified Cloud Practitioner.
 - Kubernetes hardening (Falco, Kyverno).
  
-📫 [dorcasnkim"gmail.com] | [LinkedIn - http://www.linkedin.com/in/dorcas-nkim-5850a9228]
+📫 [dorcasnkim@gmail.com] | [LinkedIn - http://www.linkedin.com/in/dorcas-nkim-5850a9228]
